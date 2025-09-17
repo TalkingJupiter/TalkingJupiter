@@ -1,6 +1,7 @@
 ## Hi, I'm Batuhan 👋
 
 📚 Undergraduate Computer Sciece Student @ Texas Tech University<br>
+🎓 Accelerated Master's Student in Computer Science @ Texas Tech University<br>
 🧑🏻‍💻 Undergraduate Research Assistant @ [DISCL Lab @ TTU](https://discl.cs.ttu.edu/doku.php?id=home)<br>
 
 
